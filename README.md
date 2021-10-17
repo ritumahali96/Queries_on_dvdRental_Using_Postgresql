@@ -5,6 +5,7 @@ This is the schema of the database DVDrental
 <img width="407" alt="Schema" src="https://user-images.githubusercontent.com/22495927/137622462-a3d7c2c8-743b-4345-a2ea-dea3307d0ef0.png">
 
 Following are the queries which is to be solved with postgresql and pgadmin
+
 1.) Do we have actors in the actor table that share the full name and if yes display those shared names.
 
 2.) Return the customer IDs of customers who have spent at least $110 with the staff member 
